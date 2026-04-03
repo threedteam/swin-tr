@@ -1,0 +1,17 @@
+# SwinTR dependencies (minimal list). Pin versions as needed for reproducibility.
+torch>=1.7.0
+torchvision>=0.8.0
+timm>=0.6.12
+transformers>=4.0.0
+numpy>=1.19
+matplotlib>=3.3
+opencv-python>=4.5
+Pillow>=8.0
+nltk>=3.5
+strsimpy>=0.2.1
+thop>=0.0.31
+lmdb>=1.2.1
+natsort>=7.0.0
+tqdm>=4.50
+validators>=0.18.2
+tokenizers>=0.10.1
